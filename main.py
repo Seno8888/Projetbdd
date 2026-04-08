@@ -1,3 +1,6 @@
+# Projet ELIO CHARNAY
+
+
 from game import jouer
 from utils import afficher_classement, sauvegarder_score
 
@@ -15,5 +18,6 @@ while True:
         afficher_classement()
 
     elif choix == 3:
+        
         break
 
